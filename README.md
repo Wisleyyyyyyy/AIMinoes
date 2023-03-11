@@ -8,7 +8,7 @@ Steps to run Application (Windows OS)
 
 Requirements
 - python 3.10.10
-- pygame
-- pytorch
-- numpy
-- matplotlib
+- pygame 2.2.0
+- torch 1.13.1 (pytorch) 
+- numpy 1.23.5
+- matplotlib 3.6.3

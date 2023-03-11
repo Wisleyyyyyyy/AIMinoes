@@ -7,6 +7,7 @@ Steps to run Application (Windows OS)
 3. Run command "python game.py"
 
 Requirements
+- python 3.10.10
 - pygame
 - pytorch
 - numpy
